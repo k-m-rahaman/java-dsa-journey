@@ -57,6 +57,31 @@ using Java.
 
 ---
 
+# 🗂️ Main Folder Structure
+
+java-dsa-journey/
+│── README.md
+│
+├── 01-Arrays/
+├── 02-Strings/
+├── 03-Searching/
+├── 04-Sorting/
+├── 05-Recursion/
+│
+├── 06-LinkedList/
+├── 07-Stack/
+├── 08-Queue/
+├── 09-Hashing/
+├── 10-Trees/
+├── 11-BinarySearchTree/
+├── 12-Heap/
+│
+├── 13-Graphs/
+├── 14-DynamicProgramming/
+└── 15-Backtracking/
+
+---
+
 # 📂 Repository Structure
 
 ```txt
