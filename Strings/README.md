@@ -30,24 +30,6 @@ This module covers:
 
 ---
 
-# 📂 Folder Structure
-
-02-Strings/
-│── README.md
-│
-├── ReverseString.java
-├── PalindromeString.java
-├── CountVowels.java
-├── CharacterFrequency.java
-├── AnagramCheck.java
-├── RemoveSpaces.java
-├── StringLength.java
-├── CountWords.java
-├── ToggleCase.java
-└── StringCompression.java
-
----
-
 # 📚 Programs Included
 
 | No | Program |
