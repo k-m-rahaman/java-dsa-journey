@@ -35,4 +35,5 @@ public class BinaryTree {
         System.out.println("Left Child: " + tree.root.left.data);
         System.out.println("Right Child: " + tree.root.right.data);
     }
+
 }
