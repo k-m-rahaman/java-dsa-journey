@@ -127,6 +127,6 @@ java FileName
 
 **Master Graphs to become interview-ready.**
 
-⭐ Happy Coding!
+⭐ Happy Coding
 
 </div>
