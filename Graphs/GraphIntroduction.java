@@ -14,4 +14,5 @@ public class GraphIntroduction {
         System.out.println("1. Vertices (Nodes)");
         System.out.println("2. Edges (Connections)");
     }
+
 }
