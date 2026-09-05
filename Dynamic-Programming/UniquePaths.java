@@ -38,5 +38,4 @@ public class UniquePaths {
                         + uniquePaths(rows, columns)
         );
     }
-} 
-int 
+}
