@@ -47,4 +47,5 @@ public class ActivitySelection {
 
         System.out.println("Maximum activities: " + count);
     }
+    
 }
