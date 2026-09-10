@@ -17,6 +17,7 @@ public class JobSequencing {
     public static void main(String[] args) {
 
         Job[] jobs = {
+            
                 new Job("J1", 2, 100),
                 new Job("J2", 1, 19),
                 new Job("J3", 2, 27),
