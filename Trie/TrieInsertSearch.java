@@ -60,4 +60,5 @@ public class TrieInsertSearch {
         System.out.println("can: " + trie.search("can"));
         System.out.println("dog: " + trie.search("dog"));
     }
+
 }
