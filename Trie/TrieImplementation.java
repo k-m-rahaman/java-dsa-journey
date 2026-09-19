@@ -87,4 +87,5 @@ public class TrieImplementation {
         System.out.println("Prefix appl: "
                 + trie.startsWith("appl"));
     }
+
 }
