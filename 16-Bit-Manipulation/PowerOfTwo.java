@@ -1,4 +1,3 @@
-
 public class PowerOfTwo {
 
     static boolean isPowerOfTwo(int number) {
