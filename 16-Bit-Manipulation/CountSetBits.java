@@ -1,3 +1,4 @@
+
 public class CountSetBits {
 
     static int countSetBits(int number) {
