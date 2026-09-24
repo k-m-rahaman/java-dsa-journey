@@ -1,3 +1,4 @@
+
 public class BinaryRepresentation {
 
     static String toBinary(int number) {
