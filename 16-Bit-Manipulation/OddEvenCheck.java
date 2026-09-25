@@ -1,3 +1,4 @@
+
 public class OddEvenCheck {
 
     static boolean isEven(int number) {
