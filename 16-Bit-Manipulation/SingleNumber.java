@@ -25,5 +25,6 @@ public class SingleNumber {
     }
 }
 
+
 // Missing number: 2
 
