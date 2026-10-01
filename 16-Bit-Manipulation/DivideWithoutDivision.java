@@ -42,3 +42,10 @@ public class DivideWithoutDivision {
         System.out.println("Quotient: " + divide(dividend, divisor));
     }
 }
+
+// Output
+// Quotient: 8
+
+// This performs integer division:
+
+// 43 / 5 = 8
